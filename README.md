@@ -1,19 +1,12 @@
 # 💫 About Me:
 ## Hi there 👋 I'm Sonika<br><br>I am a Computer Science student passionate about Artificial Intelligence and Machine Learning.<br><br>🔹 Currently learning Machine Learning and Deep Learning  <br>🔹 Building real-world AI projects  <br>🔹 Exploring data science and model deployment  <br><br>### Tech Stack<br>Python | C++ | Java | SQL  <br>Scikit-learn | Pandas | NumPy | Matplotlib  <br>Git | GitHub | Streamlit | Jupyter Notebook  <br><br>I enjoy solving problems, building AI applications, and continuously improving my skills.
-
-## 🌐 Socials:
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonika%20Deshwal-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonikadeshwal/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-@100nikadeshwal-E4405F?logo=instagram&logoColor=white)](https://instagram.com/100nikadeshwal)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-Sonika_Deshwal-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Sonika_Deshwal/)
-
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Sonika%20Deshwal-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sonikadesxdpn)
-
 [![HackerRank](https://img.shields.io/badge/HackerRank-sonikadeshwal412-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sonikadeshwal412)
-
 [![Email](https://img.shields.io/badge/Email-sonikadeshwal412@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sonikadeshwal412@gmail.com)
 
 # 💻 Tech Stack:
