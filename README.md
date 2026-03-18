@@ -1,5 +1,9 @@
-# 💫 About Me:
-## Hi there 👋 I'm Sonika<br><br>I'm a Computer Science student passionate about Artificial Intelligence and Machine Learning.<br><br>🔹 Currently learning Machine Learning and Deep Learning  <br>🔹 Building real-world AI projects  <br>🔹 Exploring data science and model deployment  <br><br>### Tech Stack<br>Python | C++ | Java | SQL  <br>Scikit-learn | Pandas | NumPy | Matplotlib  <br>Git | GitHub | Streamlit | Jupyter Notebook  <br><br>I enjoy solving problems, building AI applications, and continuously improving my skills.
+Hi, I'm Sonika — a CS student passionate about AI & ML.
+🔹 Learning Machine Learning & Deep Learning
+🔹 Building real-world AI projects
+🔹 Exploring Data Science & Model Deployment
+Tech Stack:
+Python | C++ | Java | SQL | Scikit-learn | Pandas | NumPy | Matplotlib | Streamlit | Jupyter Notebook
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonika%20Deshwal-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonikadeshwal/)
